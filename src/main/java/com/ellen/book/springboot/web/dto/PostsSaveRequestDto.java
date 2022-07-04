@@ -1,6 +1,6 @@
 package com.ellen.book.springboot.web.dto;
 
-import com.ellen.book.springboot.domain.posts.Posts;
+import com.ellen.book.springboot.config.auth.domain.posts.Posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

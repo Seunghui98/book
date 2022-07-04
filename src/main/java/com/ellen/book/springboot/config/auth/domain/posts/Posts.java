@@ -1,4 +1,4 @@
-package com.ellen.book.springboot.domain.posts;
+package com.ellen.book.springboot.config.auth.domain.posts;
 
 import lombok.Builder;
 import lombok.Getter;

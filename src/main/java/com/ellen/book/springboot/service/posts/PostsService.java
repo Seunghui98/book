@@ -1,7 +1,7 @@
 package com.ellen.book.springboot.service.posts;
 
-import com.ellen.book.springboot.domain.posts.Posts;
-import com.ellen.book.springboot.domain.posts.PostsRepository;
+import com.ellen.book.springboot.config.auth.domain.posts.Posts;
+import com.ellen.book.springboot.config.auth.domain.posts.PostsRepository;
 import com.ellen.book.springboot.web.dto.PostsListResponseDto;
 import com.ellen.book.springboot.web.dto.PostsResponseDto;
 import com.ellen.book.springboot.web.dto.PostsSaveRequestDto;
